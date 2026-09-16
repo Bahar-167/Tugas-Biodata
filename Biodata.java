@@ -1,24 +1,8 @@
-# Compiled class file
-*.class
-
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-replay_pid*
+public class Biodata {
+    public static void main(String[] args) {
+        System.out.println("Nama     : M. BAHARUDIN WAKHID");
+        System.out.println("NIM      : 123456789");
+        System.out.println("Jurusan  : Sistem Komputer");
+        System.out.println("Universitas: Universitas Nahdlatul Ulama");
+    }
+}
